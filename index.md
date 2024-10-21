@@ -3,6 +3,7 @@
 ![Text descriptiv Imagine](https://th.bing.com/th/id/OIP.a1CexLzdq5ogQ4qzji7CCgHaFx?rs=1&pid=ImgDetMain)
 
 **Cuprins**
+
 [Elemente avansate de Markdown](avansate.md)
 
 ## Implememntarea relatiilor/legaturilor catre alte fisiere
