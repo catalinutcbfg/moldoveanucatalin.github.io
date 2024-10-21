@@ -1,5 +1,7 @@
 # Implementarea relatiilor in Markdown
 
+![Text descriptiv Imagine](https://th.bing.com/th/id/OIP.a1CexLzdq5ogQ4qzji7CCgHaFx?rs=1&pid=ImgDetMain)
+
 ## Implememntarea relatiilor/legaturilor catre alte fisiere
 
 Fisirele accesate prin linkuri pot fi:
@@ -15,4 +17,23 @@ Tipuri de linkuri in Markdown:
 2. Linkuri referentiale
 
 #### Linkuri clasice 
-[Textul linkului](www.google.com)
+
+**Variante:**
+1. [Textul linkului](https://www.google.com/)
+2. [Textul linkului](https://www.google.com/ "Accesare site Google")
+
+#### Linkurile referentiale 
+
+Iata un []link[] catre site-ul Google.
+
+[link1]: https://www.google.com/
+
+Varianta prescurtata a linkurilor preferentiale:
+
+Iata un link [important] catre site-ulGoogle
+
+[important] https://www.google.com/
+
+#### Linkuri catre imagini
+
+
