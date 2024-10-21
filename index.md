@@ -5,6 +5,7 @@
 **Cuprins**
 
 [Elemente avansate de Markdown](avansate.md)
+***
 
 ## Implememntarea relatiilor/legaturilor catre alte fisiere
 
