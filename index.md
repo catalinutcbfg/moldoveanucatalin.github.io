@@ -9,6 +9,8 @@
 [Formule cu Mathjax](mathjax.md)
 
 [Matrice si ecuatii cu MathJax](mathjax2.md)
+
+[Diagrame Mermaid](/diagrame/mermaid.md)
 ***
 
 ## Implememntarea relatiilor/legaturilor catre alte fisiere
