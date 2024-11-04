@@ -18,10 +18,10 @@ $$
 
 $$
 A=
-\begin{Pmatrix}
+\begin{pmatrix}
 a_{11} & a_{12} & a_{13} \\
 b_{21} & b_{22} & b_{23} \\
-\end{Pmatrix}
+\end{pmatrix}
 $$
 
 **Posibilitati:**
